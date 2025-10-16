@@ -92,4 +92,4 @@ declare module 'random-gen' {
 
 ## License
 
-MIT © 2025 ADAIKKAPPAN2310
+ISC © 2025 ADAIKKAPPAN2310
