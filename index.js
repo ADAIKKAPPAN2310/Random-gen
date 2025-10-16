@@ -1,3 +1,4 @@
+export {randomColor,randomPassword};
 const randomColor = function () {
   let color = "#";
   const chars = "0123456789ABCDEF";
@@ -6,7 +7,7 @@ const randomColor = function () {
   return color;
 };
 
-const randomPassword = function (len = 8) {
+const randomPassword = function (len = 10) {
   let password = "";
   const chars =
     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$%^&*";
