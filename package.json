@@ -1,0 +1,20 @@
+{
+  "name": "random-gen",
+  "version": "1.0.0",
+  "description": "Random values generator",
+  "homepage": "https://github.com/ADAIKKAPPAN2310/Random-gen#readme",
+  "bugs": {
+    "url": "https://github.com/ADAIKKAPPAN2310/Random-gen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADAIKKAPPAN2310/Random-gen.git"
+  },
+  "license": "ISC",
+  "author": "Adaikkappan Ramaiah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
